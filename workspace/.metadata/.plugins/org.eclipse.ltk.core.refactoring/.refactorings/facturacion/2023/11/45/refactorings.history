@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tuempresa.facturacion.modelo.Factura&apos; to &apos;DocumentoComercial&apos;&#x0D;&#x0A;- Original project: &apos;facturacion&apos;&#x0D;&#x0A;- Original element: &apos;com.tuempresa.facturacion.modelo.Factura&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tuempresa.facturacion.modelo.DocumentoComercial&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Factura&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tuempresa.facturacion.modelo{Factura.java[Factura" matchStrategy="1" name="DocumentoComercial" qualified="false" references="true" similarDeclarations="false" stamp="1699281644787" textual="false" version="1.0"/>
+</session>

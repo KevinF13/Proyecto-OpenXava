@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1659989089070" transient="false" version="3.0">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.projectlombok.feature" version="1.18.24" url="features/org.projectlombok.feature_1.18.24/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_core.feature" version="3.26.0.v202204042240" url="features/org.eclipse.wst.xml_core.feature_3.26.0.v202204042240/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.4.1600.v20220518-1326" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.1600.v20220518-1326/">
+		</feature>
+		<feature id="org.eclipse.m2e.feature" version="1.20.1.20220227-1319" url="features/org.eclipse.m2e.feature_1.20.1.20220227-1319/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" version="1.1.600.v20220215-0126" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/">
+		</feature>
+		<feature id="org.eclipse.m2e.lemminx.feature" version="1.18.4.20220127-1634" url="features/org.eclipse.m2e.lemminx.feature_1.18.4.20220127-1634/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_ui.feature" version="3.26.0.v202204091445" url="features/org.eclipse.wst.xml_ui.feature_3.26.0.v202204091445/" plugin-identifier="org.eclipse.wst.xml.ui">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.1600.v20220518-1326" url="features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/">
+		</feature>
+		<feature id="org.eclipse.wst.common_core.feature" version="3.23.0.v202108200212" url="features/org.eclipse.wst.common_core.feature_3.23.0.v202108200212/">
+		</feature>
+		<feature id="org.eclipse.epp.mpc" version="1.10.0.v20220502-0731" url="features/org.eclipse.epp.mpc_1.10.0.v20220502-0731/" plugin-identifier="org.eclipse.epp.mpc.ui">
+		</feature>
+		<feature id="com.genuitec.eclipse.theming.core.feature" version="1.11.0.202206271604" url="features/com.genuitec.eclipse.theming.core.feature_1.11.0.202206271604/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1800.v20220215-0126" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.24.0.v20220607-0700" url="features/org.eclipse.rcp_4.24.0.v20220607-0700/">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.24.0.v20220607-0700" url="features/org.eclipse.platform_4.24.0.v20220607-0700/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.24.0.v20220530-1036" url="features/org.eclipse.e4.rcp_4.24.0.v20220530-1036/">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.1000.v20220607-0700" url="features/org.eclipse.help_2.3.1000.v20220607-0700/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.4.1600.v20220518-1326" url="features/org.eclipse.equinox.p2.user.ui_2.4.1600.v20220518-1326/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.26.0.v20220325-0806" url="features/org.eclipse.emf.common_2.26.0.v20220325-0806/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.6.1.v20211005-1944" url="features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.501.v20210409-2301" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.wst.common_ui.feature" version="3.23.0.v202107101917" url="features/org.eclipse.wst.common_ui.feature_3.23.0.v202107101917/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.28.0.v20220426-0617" url="features/org.eclipse.emf.ecore_2.28.0.v20220426-0617/">
+		</feature>
+		<feature id="com.genuitec.eclipse.base.feature" version="1.11.0.202206271604" url="features/com.genuitec.eclipse.base.feature_1.11.0.202206271604/">
+		</feature>
+		<feature id="org.eclipse.jdt" version="3.18.1200.v20220607-0700" url="features/org.eclipse.jdt_3.18.1200.v20220607-0700/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_userdoc.feature" version="3.18.0.v202004271556" url="features/org.eclipse.wst.xml_userdoc.feature_3.18.0.v202004271556/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.401.v20210409-2301" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.1400.v20220518-1326" url="features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/">
+		</feature>
+		<feature id="com.genuitec.eclipse.common.explorer.jdt.feature" version="1.11.0.202206271604" url="features/com.genuitec.eclipse.common.explorer.jdt.feature_1.11.0.202206271604/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.2.1100.v20220210-1157" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/">
+		</feature>
+		<feature id="org.eclipse.userstorage" version="1.2.0.v20210517-0327" url="features/org.eclipse.userstorage_1.2.0.v20210517-0327/">
+		</feature>
+	</site>
+</config>

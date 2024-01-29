@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 17.0.1 (Homebrew)
+
+Name: feature.xml
+SHA-256-Digest: 5qYPYzkv6iI5jhrs4BogPp+8LYc6QqT2IYp4DokRk8s=
+

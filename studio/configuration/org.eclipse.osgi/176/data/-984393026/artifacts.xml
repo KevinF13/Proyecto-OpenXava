@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='E:\dist\openxava-studio-7-r2\studio\.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1666088417434'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='3'>
+    <artifact classifier='osgi.bundle' id='org.openxava.studio.hsqldb' version='7.0.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='1599516'/>
+        <property name='download.size' value='1599516'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/dist/openxava-studio-7-r2/studio/plugins/org.openxava.studio.hsqldb_7.0.0.jar'/>
+        <property name='file.name' value='E:\dist\openxava-studio-7-r2\studio\plugins\org.openxava.studio.hsqldb_7.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openxava.studio.newproject' version='7.2.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='16531'/>
+        <property name='download.size' value='16531'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/dist/openxava-studio-7-r2/studio/plugins/org.openxava.studio.newproject_7.2.0.jar'/>
+        <property name='file.name' value='E:\dist\openxava-studio-7-r2\studio\plugins\org.openxava.studio.newproject_7.2.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openxava.studio.dbmanager' version='7.0.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='4265'/>
+        <property name='download.size' value='4265'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/dist/openxava-studio-7-r2/studio/plugins/org.openxava.studio.dbmanager_7.0.0.jar'/>
+        <property name='file.name' value='E:\dist\openxava-studio-7-r2\studio\plugins\org.openxava.studio.dbmanager_7.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
